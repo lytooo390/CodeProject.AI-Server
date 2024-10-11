@@ -54,7 +54,7 @@
 		<PackageReference Include="Yolov8.Net" Version="1.1.4" />
 		<PackageReference Include="SixLabors.ImageSharp" Version="3.1.4" />
 		<PackageReference Include="SkiaSharp" Version="2.88.6" />
-		<PackageReference Include="Microsoft.Extensions.Hosting" Version="7.0.0" />
+		<PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
 
 		<!-- Hardware Specific packages. Note that for CUDA, even if there may not be any actual
 		     CUDA hardware available, the package will still run fine. It's big, but if it does
