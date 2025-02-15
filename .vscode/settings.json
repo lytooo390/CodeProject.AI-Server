@@ -146,5 +146,8 @@
     ],
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "notebook.codeActionsOnSave": {
+        
+    }
 }
